@@ -1,4 +1,4 @@
-![logo](![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png))
+![logo](https://github.com/Markg747/Mark-Kamau/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Mark Kamau</h1>
 <h3 align="center">A passionate Data Analyst from Canada</h3>
 
